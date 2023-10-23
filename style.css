@@ -32,6 +32,25 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    list-style-type: none;
+    font-size: 120%;
+    
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 main {
     background-color: green;
     flex: 1 0 auto;
