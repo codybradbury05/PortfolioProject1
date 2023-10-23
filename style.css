@@ -1,3 +1,7 @@
+/* Google Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+
 * {
     padding: 0;
     margin: 0;
@@ -14,8 +18,13 @@ body {
     color: #3a3a3a;
 }
 
+h1, h2, h3 {
+    font-family: 'Russo One', sans-serif;
+    text-transform: uppercase;
+}
+
 header {
-    background-color: blue;
+    background-color: #ffffff;
 }
 
 main {
