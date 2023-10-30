@@ -105,7 +105,7 @@ main {
     font-size: 175%;
     position: absolute;
     bottom: 30px;
-    width: 67%;
+    width: 68%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
@@ -133,6 +133,24 @@ main {
     text-align: center;
 }
 
+#location {
+    margin: 20px auto;
+}
+
+#location > h2 {
+    margin-top: 50px;
+    font-size: 250%;
+    text-align: center;
+}
+
+#location > iframe {
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+    min-width: 175px;
+    min-height: 300px;
+}
 /* Footer Content */
 footer {
    
@@ -150,6 +168,17 @@ footer {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+}
+/* Media Query - Phones (320px +) */
+@media screen and (min-width:280px) and (max-width:500px) {
+    #location>iframe {
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: block;
+        max-width: 200px;
+        min-height: 300px;
+        }
 }
 
 /* Media Query - Tablet sizes + (768px +) */
@@ -190,6 +219,15 @@ footer {
         margin: 20px auto;
         max-width: 1000px;
         }
+
+        #location>iframe {
+            margin: auto;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            display: block;
+            width: 600px;
+            height: 600px;
+        }
 }
 
 /* Media Query: Screen sizes 992 and larger */
@@ -197,4 +235,17 @@ footer {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+}
+
+/* Media Query: Screen sizes 1200px and larger */
+
+@media screen and (min-width: 1200px) {
+    #location>iframe {
+            margin: auto;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            display: block;
+            width: 1000px;
+            height: 600px;
+        }
 }
