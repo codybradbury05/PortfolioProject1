@@ -118,10 +118,18 @@ main {
 
 #about {
     margin: 20px auto;
+    max-width: 400px;
 }
+
+
 
 #about > h2 {
     font-size: 250%;
+    text-align: center;
+}
+
+#about > div > p {
+    font-size: 150%;
     text-align: center;
 }
 
@@ -177,6 +185,11 @@ footer {
         width: 300px;
         right: 50px;
          }
+    
+    #about {
+        margin: 20px auto;
+        max-width: 1000px;
+        }
 }
 
 /* Media Query: Screen sizes 992 and larger */
