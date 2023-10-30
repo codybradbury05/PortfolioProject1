@@ -146,14 +146,14 @@ main {
 #location > iframe {
     margin: auto;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     display: block;
     min-width: 175px;
     min-height: 300px;
 }
 /* Footer Content */
 footer {
-   
+   border-top: 2px solid #3a3a3a;;
 }
 
 #social-networks {
