@@ -116,6 +116,7 @@ main {
     color: #ffffff;
 }
 
+/* About */
 #about {
     margin: 20px auto;
     max-width: 400px;
@@ -132,6 +133,8 @@ main {
     font-size: 150%;
     text-align: center;
 }
+
+/* Location */
 
 #location {
     margin: 20px auto;
@@ -151,6 +154,35 @@ main {
     min-width: 175px;
     min-height: 300px;
 }
+
+/* Exercises */
+
+#exercises {
+    line-height: 0%;
+    margin: 20px auto;
+}
+
+
+#exercisesh2 {
+    font-size: 2.5vw;
+    font-size: 4vmin;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#exercises iframe {
+    margin: auto;
+    width: 50%;
+    line-height: 1em;
+    display: block;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
 /* Footer Content */
 footer {
    border-top: 2px solid #3a3a3a;;
@@ -169,7 +201,7 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
-/* Media Query - Phones (320px +) */
+/* Media Query - Phones (280px - 500px) */
 @media screen and (min-width:280px) and (max-width:500px) {
     #location>iframe {
         margin: auto;
@@ -179,6 +211,28 @@ footer {
         max-width: 200px;
         min-height: 300px;
         }
+    
+    #exercises iframe {
+        width: 95%;
+    }
+
+    
+}
+
+@media screen and (min-width:0px) and (max-width:351px) {
+    main {
+        margin-top: 8rem;
+        }
+}
+
+@media screen and (min-width: 500px) and (max-width:768px) {
+
+    #exercises iframe {
+        width: 95%;
+        height: 500px;
+        }
+
+    
 }
 
 /* Media Query - Tablet sizes + (768px +) */
@@ -220,13 +274,18 @@ footer {
         max-width: 1000px;
         }
 
-        #location>iframe {
-            margin: auto;
-            margin-top: 30px;
-            margin-bottom: 30px;
-            display: block;
-            width: 600px;
-            height: 600px;
+    #location>iframe {
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: block;
+        width: 600px;
+        height: 600px;
+        }
+
+    #exercises iframe {
+        width: 95%;
+        height: 500px;
         }
 }
 
@@ -248,4 +307,9 @@ footer {
             width: 1000px;
             height: 600px;
         }
+
+    #exercises {
+        column-count: 3;
+        
+    }
 }
