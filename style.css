@@ -177,7 +177,6 @@ main {
     line-height: 1em;
     display: block;
     height: auto;
-    margin-top: 10px;
     margin-bottom: 10px;
 }
 
@@ -313,7 +312,5 @@ footer {
         
     }
 
-    #deadlift > iframe {
-        bottom: 100px;
-    }
+    
 }
