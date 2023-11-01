@@ -190,6 +190,38 @@ main {
     flex-grow: 5;
 }
 
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(162, 7, 1, .7);
+    padding: 30px;
+}
+
+#signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #3a3a3a;
+    color: #fafafa;
+    font-family: 'Russo One', sans-serif;
+}
+
 /* Footer Content */
 footer {
    border-top: 2px solid #3a3a3a;;
@@ -208,8 +240,12 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
 /* Media Query - Phones (280px - 500px) */
 @media screen and (min-width:280px) and (max-width:500px) {
+
+    /* Location */
+
     #location>iframe {
         margin: auto;
         margin-top: 30px;
@@ -219,6 +255,8 @@ footer {
         min-height: 300px;
         }
     
+    /* Exercises */
+    
     #exercises iframe {
         width: 95%;
     }
@@ -226,13 +264,27 @@ footer {
     
 }
 
+/* Sizes 0px - 353px */
 @media screen and (min-width:0px) and (max-width:353px) {
+
+    /* Main Content */
+
     main {
         margin-top: 8rem;
         }
+    
+    /* Form */
+
+    #signup-form {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        }
 }
 
+/* Sizes 500px - 768px */
 @media screen and (min-width: 500px) and (max-width:768px) {
+
+    /* Exercises */
 
     #exercises iframe {
         width: 95%;
@@ -265,6 +317,8 @@ footer {
     .nav-toggle-label {
         display: none;
         }
+    
+    /* Main Content */
 
     main {
         flex: 1 0 auto;
@@ -276,11 +330,15 @@ footer {
         right: 50px;
          }
     
+    /* About */
+    
     #about {
         margin: 20px auto;
         max-width: 1000px;
         }
-
+    
+    /* Location */
+    
     #location>iframe {
         margin: auto;
         margin-top: 30px;
@@ -290,10 +348,34 @@ footer {
         height: 600px;
         }
 
+    /* Exercises */
+
     #exercises iframe {
         width: 95%;
         height: 500px;
         }
+
+    /* Form */
+    #signup {
+        background-position: center;
+        position: relative;
+         }
+    
+    #signup-form {
+        max-width: 900px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+         }
+    
+    .text-input:hover {
+        border-color: #3a3a3a;
+         }
+    
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #3a3a3a;
+         }
 }
 
 /* Media Query: Screen sizes 992 and larger */
@@ -306,6 +388,9 @@ footer {
 /* Media Query: Screen sizes 1200px and larger */
 
 @media screen and (min-width: 1200px) {
+
+    /* Location */
+
     #location>iframe {
             margin: auto;
             margin-top: 30px;
@@ -315,6 +400,8 @@ footer {
             height: 600px;
         }
 
+    /* Exercises */
+    
     #exercises {
         column-count: 3;
         
