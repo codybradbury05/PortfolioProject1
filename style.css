@@ -182,7 +182,13 @@ main {
 
 /* Signup Section */
 
-
+#signupbg {
+    background: url("images/signupbg.jpg") ;
+    background-size: cover;
+    background-position: 50%;
+    padding:20px 10% 0 10%;
+    flex-grow: 5;
+}
 
 /* Footer Content */
 footer {
