@@ -219,7 +219,7 @@ footer {
     
 }
 
-@media screen and (min-width:0px) and (max-width:351px) {
+@media screen and (min-width:0px) and (max-width:353px) {
     main {
         margin-top: 8rem;
         }
@@ -311,5 +311,9 @@ footer {
     #exercises {
         column-count: 3;
         
+    }
+
+    #deadlift > iframe {
+        bottom: 100px;
     }
 }
