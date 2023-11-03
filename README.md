@@ -6,8 +6,6 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -64,23 +62,11 @@ In this section, you should go over the different parts of your project, and des
 
 ![Sign Up](media/getstrongsignuppage.PNG)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
 - In the future, this website has the ability to become a fully implemented gym website that can help meet targets and allow gym members to track their lifts. The potential is limitless.
 
 ## Testing
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Crossbrowser Testing
 
@@ -123,10 +109,6 @@ If this section grows too long, you may want to split it off into a separate fil
 The live link can be found here - <https://codybradbury05.github.io/PortfolioProject1/>
 
 ## Credits
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 ### Content
 
