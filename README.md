@@ -36,7 +36,7 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
   - This section allows the user to see where Get Strong is based and where they can come and help themselves get strong.
   - Get Strong is based out of one of the best gyms in the UK!
 
-![Location Section](media/getstrongaboutus.PNG)
+![Location Section](media/getstronglocation.PNG)
 
 - __The Footer__
 
