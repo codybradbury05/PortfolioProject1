@@ -93,6 +93,8 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 ### Lighthouse Testing
 
+- I used Lighthouse to test other areas of my website, all tests were completed on the mobile side.
+
 ### About Page
 ![About Page](media/getstrongabouttest.PNG)
 
