@@ -1,8 +1,11 @@
 # Get Strong
 
-Get Strong is a landing page to encourage people to get strong within the gym. Get strong provides a set of example exercises in order to help with strength gains. Get strong helps people of all skill levels and gives them basic knowledge.
+## Purpose
+
+Get Strong is a landing page to encourage people to get strong within the gym. Get strong provides a set of example exercises in order to help with strength gains. Get strong helps people of all skill levels and gives them basic knowledge. At Get Strong we aim our website to anyone that wants to get into the gym and particularly make strength gains.
 
 ![Responsive Mockup](media/getstrongresponsive.PNG)
+
 
 ## Features
 
@@ -91,13 +94,13 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 ### Lighthouse Testing
 
 ### About Page
-[About Page](media/getstrongabouttest.PNG)
+![About Page](media/getstrongabouttest.PNG)
 
 ### Exercises Page
-[Exercises Page](media/getstrongexercisestest.PNG)
+![Exercises Page](media/getstrongexercisestest.PNG)
 
 ### Sign Up Page
-[Sign Up Page](media/getstrongsignuptest.PNG)
+![Sign Up Page](media/getstrongsignuptest.PNG)
 
 
 ### Bugs
