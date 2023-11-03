@@ -40,17 +40,13 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 - __The Footer__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
   - The footer section includes the 'links' for the Get Strong social media pages. The links open in a new tab to make sure their time on the website is not interupted.
   - The footer adds value to the user as they can keep up to date with Get Strong through social media.
 
 ![Footer](media/getstrongfooter.PNG)
 
 - __Exercises__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like.
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+- 
   - The exercises section provides the ueer with example videos of exercises to see ways of getting strong.
   - This provides value to user as they will able to view any potential exercises they may want to try themselves to help get strong.
 
