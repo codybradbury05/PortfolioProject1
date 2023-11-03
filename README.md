@@ -47,7 +47,7 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 - __Exercises__
 - 
-  - The exercises section provides the ueer with example videos of exercises to see ways of getting strong.
+  - The exercises section provides the user with example videos of exercises to see ways of getting strong.
   - This provides value to user as they will able to view any potential exercises they may want to try themselves to help get strong.
 
 ![Exercises](media/getstrongexercisespage.PNG)
@@ -88,6 +88,18 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator#css)
 
+### Lighthouse Testing
+
+### About Page
+[About Page](media/getstrongabouttest.PNG)
+
+### Exercises Page
+[Exercises Page](media/getstrongexercisestest.PNG)
+
+### Sign Up Page
+[Sign Up Page](media/getstrongsignuptest.PNG)
+
+
 ### Bugs
 
 - My first bug that I found was the hero image on the about us page not showing on my deployed page. As I deployed my page early, I found this straight away. The problem was due to a file directory. I simply removed the first '/' from its file path and that fixed the problem.
@@ -108,8 +120,8 @@ The live link can be found here - <https://codybradbury05.github.io/PortfolioPro
 
 ### Content
 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The code for the footer, nav bar and signup page were taken and adapted from the CI Love Running project. [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main)
+- The icons in the footer were taken from. [Font Awesome](https://fontawesome.com/)
+- The code for the footer, nav bar and signup page were taken and adapted from the CI Love Running project. Furthermore, code to make my design was responsive was also mostly used from here. [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main)
 
 ### Media
 
