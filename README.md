@@ -22,6 +22,11 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 - __Sign Up Page__
 ![Sign Up Page](media/wireframesignup.PNG)
 
+### Colour Scheme
+
+- I have used 2 main colors within my website. The main color being a deep red and the other a charcoal grey. The charcoal grey was mostly used for fonts.
+
+![Color Pallete](media/colorpallete.png)
 
 ## Features
 
