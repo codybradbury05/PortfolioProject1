@@ -32,6 +32,12 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 - I have used one main font, [Russo One](https://fonts.google.com/specimen/Russo+One?preview.text=GET%20STRONG&preview.text_type=custom&classification=Display). This was to stay consistent throught the whole website and create a familiarity within the website.
 
+### Target Audience
+
+- I aim to target new gym members.
+- I aim to target powerlifters.
+- I aim to target all levels of experience to help give knowledge.
+
 ## Features
 
 ### Existing Features
