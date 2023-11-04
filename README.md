@@ -168,6 +168,13 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 The live link can be found here - <https://codybradbury05.github.io/PortfolioProject1/>
 
+## Technology Section
+
+The Technologies used are stated below: 
+
+- HTML
+- CSS
+
 ## Credits
 
 ### Content
