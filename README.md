@@ -28,6 +28,10 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 ![Color Pallete](media/colorpallete.png)
 
+### Typography
+
+- I have used one main font, [Russo One](https://fonts.google.com/specimen/Russo+One?preview.text=GET%20STRONG&preview.text_type=custom&classification=Display). This was to stay consistent throught the whole website and create a familiarity within the website.
+
 ## Features
 
 ### Existing Features
@@ -148,9 +152,10 @@ The live link can be found here - <https://codybradbury05.github.io/PortfolioPro
 
 - The icons in the footer were taken from. [Font Awesome](https://fontawesome.com/)
 - The code for the footer, nav bar and sign-up page were taken and adapted from the CI Love Running project. Furthermore, code to make my design responsive was also mostly used from here. [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main)
+- The Font was from. [Google Fonts](https://fonts.google.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from[Pexels](https://www.pexels.com/)
+- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/)
 - The videos used on the exercises page were taken from youtuber Jeremy Ethier [Jeremy Ethier](https://www.youtube.com/@JeremyEthier)
 
