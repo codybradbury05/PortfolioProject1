@@ -38,12 +38,21 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 - I aim to target powerlifters.
 - I aim to target all levels of experience to help give knowledge.
 
-## User Stories
+### User Stories
 
 - As a user I want to understand the purpose of the site.
 - As a user I want to be able to benefit from the site.
 - As a user I want to be able to navigate the site with ease.
 - As a user I want to be able to sign up.
+
+### Site Aims
+
+- Inform the user about the purpose of the site.
+- Provide useful information to the user.
+- Allow the user to easily navigate the site.
+- Enable the user to GET STRONG!
+- Allow the user to sign-up to the site.
+
 
 ## Features
 
