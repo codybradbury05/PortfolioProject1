@@ -187,4 +187,5 @@ The Technologies used are stated below:
 
 - The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/)
 - The videos used on the exercises page were taken from youtuber Jeremy Ethier [Jeremy Ethier](https://www.youtube.com/@JeremyEthier)
+- The favicon was created on [favicon.io](https://favicon.io/favicon-generator/)
 
