@@ -6,6 +6,22 @@ Get Strong is a landing page to encourage people to get strong within the gym. G
 
 ![Responsive Mockup](media/getstrongresponsive.PNG)
 
+## Planning
+
+### WireFrames
+
+- Below is the wireframes I created to plan the design of the website. By using wireframes it helped me works towards a design and have a more focused end product.
+
+- __About Page__
+![About Wireframe](media/wireframeabout.PNG)
+
+- __Exercises Page__
+  
+![Exercises Wireframe](media/wireframeexercises.PNG)
+
+- __Sign Up Page__
+![Sign Up Page](media/wireframesignup.PNG)
+
 
 ## Features
 
